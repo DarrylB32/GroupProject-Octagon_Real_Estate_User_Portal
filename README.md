@@ -29,7 +29,7 @@ The user portal is made up of graphs and interactive maps based on the criteria 
 ![SS1](ReadMe_Resources/SS1.png)
 ![SS2](ReadMe_Resources/SS2.png)
 ![SS3](ReadMe_Resources/SS3.png)
-![SS4](ReadMe_Resources/SS1.png)
+![SS4](ReadMe_Resources/SS4.png)
 
 ---
 ### Tech Stack
